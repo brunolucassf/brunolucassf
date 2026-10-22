@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://fontedev.com"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/brunolucassf"><strong>LinkedIn ↗</strong></a> &nbsp; / &nbsp;
-  <a href="https://www.instagram.com/fonte.dev/"><strong>Dev journal ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.instagram.com/fonte.dev/"><strong>Instagram ↗</strong></a> &nbsp; / &nbsp;
   <a href="https://github.com/brunolucassf/brunolucassf/blob/main/README.pt-BR.md">Português 🇧🇷</a>
 </p>
 
@@ -26,7 +26,7 @@ I work with **React, Next.js, TypeScript and Node.js**, alongside a background i
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/brunolucassf/surreal-park-v2"><img src="assets/surreal.svg" width="100%" alt="Surreal Park — Astro and TypeScript website concept with GSAP and Lenis" /></a>
-<p>A website demonstration exploring immersive art direction, motion and scrolling interactions. Built with static Astro, strict TypeScript and a custom CSS design system.</p>
+<p>An independent, unofficial website concept based on publicly available information. Not commissioned, endorsed by or affiliated with Surreal Park. Explores immersive art direction, motion and scrolling interactions. Built with static Astro, strict TypeScript and a custom CSS design system.</p>
 <a href="https://github.com/brunolucassf/surreal-park-v2">Repository &amp; setup</a>
 </td>
 </tr>
