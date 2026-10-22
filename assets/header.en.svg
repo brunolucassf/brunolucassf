@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="Bruno Lucas — developer. Thoughtful interfaces. Useful software.">
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#FF008A"/><stop offset=".55" stop-color="#7B2CFF"/><stop offset="1" stop-color="#00F0FF"/></linearGradient><radialGradient id="glow"><stop stop-color="#7B2CFF" stop-opacity=".32"/><stop offset="1" stop-color="#05010D" stop-opacity="0"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9385b7" stroke-opacity=".08"/></pattern></defs>
+<rect width="1280" height="440" rx="20" fill="#080510"/><rect width="1280" height="440" rx="20" fill="url(#grid)"/><ellipse cx="1050" cy="200" rx="380" ry="300" fill="url(#glow)"/>
+<path d="M0 1H1280" stroke="url(#g)" stroke-width="3"/>
+<g font-family="monospace"><text x="64" y="64" fill="#00F0FF" font-size="15" letter-spacing="3">~/bruno-lucas</text><text x="1216" y="64" text-anchor="end" fill="#a39aB9" font-size="13">FONTE DEV / DEVELOPER PROFILE</text></g>
+<text x="60" y="174" fill="#faf7ff" font-size="76" font-weight="700" font-family="Arial,Helvetica,sans-serif" letter-spacing="-3">Bruno Lucas<tspan fill="#FF008A">.</tspan></text>
+<text x="64" y="222" fill="#c9bedc" font-family="monospace" font-size="21">Developer. Builder. Always learning.</text>
+<text x="64" y="280" fill="#f4efff" font-family="Arial,Helvetica,sans-serif" font-size="23">Thoughtful interfaces. Useful software.</text>
+<path d="M64 316H580" stroke="#30243f"/>
+<text x="64" y="361" fill="#a79bb9" font-family="monospace" font-size="14" letter-spacing="1">WEB / AUTOMATION / CREATIVE DEVELOPMENT</text>
+<g transform="translate(1000 228)">
+<circle r="125" fill="none" stroke="#7B2CFF" stroke-opacity=".45"/><circle r="97" fill="none" stroke="#00F0FF" stroke-opacity=".26" stroke-dasharray="3 11"/>
+<ellipse rx="156" ry="60" transform="rotate(-35)" fill="none" stroke="url(#g)" stroke-width="2"/>
+<ellipse rx="156" ry="60" transform="rotate(35)" fill="none" stroke="#7B2CFF" stroke-opacity=".5"/>
+<text x="0" y="20" text-anchor="middle" fill="#f7f0ff" font-family="monospace" font-size="64" font-weight="bold">&lt;/&gt;</text>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="28s" repeatCount="indefinite"/><circle cx="125" cy="0" r="5" fill="#00F0FF"/><circle cx="-125" cy="0" r="4" fill="#FF008A"/></g>
+</g><text x="1216" y="402" text-anchor="end" fill="#756689" font-family="monospace" font-size="12">build → learn → iterate</text></svg>
