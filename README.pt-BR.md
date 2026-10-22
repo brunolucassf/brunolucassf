@@ -1,6 +1,6 @@
 ![Bruno Lucas — Desenvolvedor](assets/header.svg)
 
-[English](README.md) · [Portfólio](https://fontedev.com) · [LinkedIn](https://www.linkedin.com/in/brunolucassf) · [Jornada dev](https://www.instagram.com/fonte.dev/)
+[English](README.md) · [Portfólio](https://fontedev.com) · [LinkedIn](https://www.linkedin.com/in/brunolucassf) · [Instagram](https://www.instagram.com/fonte.dev/)
 
 ## Um pouco de contexto
 
@@ -18,7 +18,7 @@ Bot de música para Discord com comandos de prefixo e barra, filas por servidor 
 
 ### [Surreal Park — demonstração](https://github.com/brunolucassf/surreal-park-v2)
 
-Conceito de site que explora direção de arte imersiva, animações e interações de rolagem. Desenvolvido com Astro estático, TypeScript estrito e um design system próprio em CSS.
+**Projeto conceitual independente e não oficial**, desenvolvido com informações públicas, sem contratação, endosso ou vínculo com o Surreal Park. Explora direção de arte imersiva, animações e interações de rolagem. Desenvolvido com Astro estático, TypeScript estrito e um design system próprio em CSS.
 
 **Astro · TypeScript · GSAP · Lenis**
 
