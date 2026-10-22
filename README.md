@@ -1,59 +1,59 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Bruno Lucas — Developer. Builder. Always learning. Thoughtful interfaces. Useful software." />
+  <img src="assets/header.svg" width="100%" alt="Bruno Lucas — Desenvolvedor. Sempre aprendendo. Interfaces bem pensadas. Software útil." />
 </p>
 
 <p align="center">
-  <a href="https://fontedev.com"><strong>Portfolio ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://fontedev.com"><strong>Portfólio ↗</strong></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/brunolucassf"><strong>LinkedIn ↗</strong></a> &nbsp; / &nbsp;
   <a href="https://www.instagram.com/fonte.dev/"><strong>Instagram ↗</strong></a> &nbsp; / &nbsp;
-  <a href="https://github.com/brunolucassf/brunolucassf/blob/main/README.pt-BR.md">Português 🇧🇷</a>
+  <a href="https://github.com/brunolucassf/brunolucassf/blob/main/README.en.md">English 🇬🇧</a>
 </p>
 
-### A little context
+### Um pouco de contexto
 
-I'm **Bruno**, a developer based in southern Brazil, building under **Fonte Dev**. My work spans websites, web applications and automation — with a particular interest in the place where engineering meets visual design.
+Sou **Bruno Lucas**, desenvolvedor no sul do Brasil e autor da **Fonte Dev**. Construo sites, aplicações web e automações, com interesse especial no encontro entre engenharia e design visual.
 
-I work with **React, Next.js, TypeScript and Node.js**, alongside a background in **WordPress and WooCommerce**. I care about responsive interfaces, performance, clear structure and the small details that make software feel good to use.
+Trabalho com **React, Next.js, TypeScript e Node.js**, além da experiência com **WordPress e WooCommerce**. Valorizo interfaces responsivas, performance, organização do código e os detalhes que tornam um produto agradável de usar.
 
-### Selected work
+### Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/brunolucassf/NeruzBot"><img src="assets/neruz.svg" width="100%" alt="Neruz Bot — TypeScript and Node.js music bot for Discord" /></a>
-<p>A music bot with prefix and slash commands, per-server queues and a layered architecture. The public repository documents the design and includes selected code; the playback core is private.</p>
-<a href="https://github.com/brunolucassf/NeruzBot">Repository &amp; architecture</a> · <a href="https://neruz.cloud">Live website ↗</a>
+<a href="https://github.com/brunolucassf/NeruzBot"><img src="assets/neruz.svg" width="100%" alt="Neruz Bot — Bot de música para Discord com TypeScript e Node.js" /></a>
+<p>Bot de música com comandos de prefixo e barra, filas por servidor e arquitetura em camadas. O repositório público apresenta a arquitetura e partes selecionadas do código; o núcleo de reprodução é privado.</p>
+<a href="https://github.com/brunolucassf/NeruzBot">Repositório e arquitetura</a> · <a href="https://neruz.cloud">Site do projeto ↗</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/brunolucassf/surreal-park-v2"><img src="assets/surreal.svg" width="100%" alt="Surreal Park — Astro and TypeScript website concept with GSAP and Lenis" /></a>
-<p>An independent, unofficial website concept based on publicly available information. Not commissioned, endorsed by or affiliated with Surreal Park. Explores immersive art direction, motion and scrolling interactions. Built with static Astro, strict TypeScript and a custom CSS design system.</p>
-<a href="https://github.com/brunolucassf/surreal-park-v2">Repository &amp; setup</a>
+<a href="https://github.com/brunolucassf/surreal-park-v2"><img src="assets/surreal.svg" width="100%" alt="Surreal Park — Conceito independente e não oficial de site com Astro, TypeScript, GSAP e Lenis" /></a>
+<p><strong>Conceito independente e não oficial</strong>, desenvolvido com informações públicas, sem contratação, endosso ou vínculo com o Surreal Park. Explora direção de arte imersiva, animações e interações de rolagem. Desenvolvido com Astro estático, TypeScript estrito e um sistema visual próprio em CSS.</p>
+<a href="https://github.com/brunolucassf/surreal-park-v2">Repositório e como executar</a>
 </td>
 </tr>
 </table>
 
-More websites and interface work live at **[fontedev.com ↗](https://fontedev.com)**.
+Mais sites e interfaces no **[fontedev.com ↗](https://fontedev.com)**.
 
-### Toolbox
+### Ferramentas
 
-| Area | Technologies |
+| Área | Tecnologias |
 | :--- | :--- |
 | Interfaces | React · Next.js · TypeScript · JavaScript · HTML · CSS |
-| Backend & automation | Node.js · API integrations · Discord bots |
-| Web platforms | WordPress · WooCommerce · Elementor |
-| Workflow & design | Git · GitHub · Figma · Photoshop · Illustrator |
+| Backend e automação | Node.js · Integrações com APIs · Bots para Discord |
+| Plataformas web | WordPress · WooCommerce · Elementor |
+| Fluxo e design | Git · GitHub · Figma · Photoshop · Illustrator |
 
-### Currently exploring
+### Em estudo
 
-**React Native**, **Java backend development** and **AI agent architecture** — learning by building, testing ideas and documenting the process.
+**React Native**, **desenvolvimento backend com Java** e **arquitetura de agentes de IA**, aprendendo ao construir, testar ideias e documentar o processo.
 
-### How I approach a build
+### Como trabalho
 
-- Start with the problem and the people using the software.
-- Design for small screens and pay attention to loading and interaction.
-- Keep responsibilities clear and validate what crosses system boundaries.
-- Use motion to support the experience, then iterate on the details.
+- Entender o problema e quem vai usar o software.
+- Projetar para telas pequenas e cuidar do carregamento e das interações.
+- Separar responsabilidades e validar os dados nas fronteiras do sistema.
+- Usar movimento com propósito e refinar os detalhes.
 
 ---
 
-<p align="center"><code>Curiosity → code → something useful.</code><br /><sub>Bruno Lucas · Fonte Dev · Brazil</sub></p>
+<p align="center"><code>Curiosidade → código → algo útil.</code><br /><sub>Bruno Lucas · Fonte Dev · Brasil</sub></p>
