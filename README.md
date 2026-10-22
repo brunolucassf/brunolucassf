@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Bruno Lucas — Desenvolvedor. Sempre aprendendo. Interfaces bem pensadas. Software útil." />
+  <img src="assets/header.pt-BR.svg" width="100%" alt="Bruno Lucas — Desenvolvedor. Sempre aprendendo. Interfaces bem pensadas. Software útil." />
 </p>
 
 <p align="center">
@@ -20,12 +20,12 @@ Trabalho com **React, Next.js, TypeScript e Node.js**, além da experiência com
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/brunolucassf/NeruzBot"><img src="assets/neruz.svg" width="100%" alt="Neruz Bot — Bot de música para Discord com TypeScript e Node.js" /></a>
+<a href="https://github.com/brunolucassf/NeruzBot"><img src="assets/neruz.pt-BR.svg" width="100%" alt="Neruz Bot — Bot de música para Discord com TypeScript e Node.js" /></a>
 <p>Bot de música com comandos de prefixo e barra, filas por servidor e arquitetura em camadas. O repositório público apresenta a arquitetura e partes selecionadas do código; o núcleo de reprodução é privado.</p>
 <a href="https://github.com/brunolucassf/NeruzBot">Repositório e arquitetura</a> · <a href="https://neruz.cloud">Site do projeto ↗</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/brunolucassf/surreal-park-v2"><img src="assets/surreal.svg" width="100%" alt="Surreal Park — Conceito independente e não oficial de site com Astro, TypeScript, GSAP e Lenis" /></a>
+<a href="https://github.com/brunolucassf/surreal-park-v2"><img src="assets/surreal.pt-BR.svg" width="100%" alt="Surreal Park — Conceito independente e não oficial de site com Astro, TypeScript, GSAP e Lenis" /></a>
 <p><strong>Conceito independente e não oficial</strong>, desenvolvido com informações públicas, sem contratação, endosso ou vínculo com o Surreal Park. Explora direção de arte imersiva, animações e interações de rolagem. Desenvolvido com Astro estático, TypeScript estrito e um sistema visual próprio em CSS.</p>
 <a href="https://github.com/brunolucassf/surreal-park-v2">Repositório e como executar</a>
 </td>
